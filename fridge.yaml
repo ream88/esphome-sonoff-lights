@@ -17,6 +17,7 @@ wifi:
 logger:
 
 ota:
+  platform: esphome
 
 mqtt:
   broker: 10.0.0.254

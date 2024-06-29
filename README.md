@@ -7,6 +7,6 @@ brew install esphome
 ```
 
 ```sh
-esphome table.yaml run
-esphome fridge.yaml run
+esphome run table.yaml
+esphome run fridge.yaml
 ```
